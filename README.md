@@ -16,6 +16,7 @@ Users can search for properties, and agents can post properties with images and 
 ---
 
 ## Demo Video
+-CLICK TO VIEW DEMO
 [![Watch the video](https://img.youtube.com/vi/p0TZL5X51_g/default.jpg)](https://youtu.be/p0TZL5X51_g)
 
 ---
