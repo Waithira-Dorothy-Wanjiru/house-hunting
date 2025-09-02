@@ -17,13 +17,6 @@ Users can search for properties, and agents can post properties with images and 
 
 ## Demo Video
 
-You can watch a demo of the system below:
-
-<video width="600" controls>
-  <source src="homly.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
----
+<a href="https://youtu.be/p0TZL5X51_g">
+  
+</a>
